@@ -15,7 +15,7 @@ Secure your on prem asp.core application wether it's console based or web hosted
    ```
    >PowerShell
    ```ps1
-   $ $env:CipherKey = "l8cpD27QcWDXjAg8ut+qH0IkWv/p38DrAst4Ee83jMg="
+   $ $env:CipherKey="l8cpD27QcWDXjAg8ut+qH0IkWv/p38DrAst4Ee83jMg="
    ```
 
 2. Add a encrypted text to appsetting.json<br>
