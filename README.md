@@ -1,4 +1,4 @@
-# Secure OnPremise application through appsettings.json
+# Secure OnPremise applications through appsettings.json
 
 Secure your on prem asp.core application wether it's console based or web hosted.
 
