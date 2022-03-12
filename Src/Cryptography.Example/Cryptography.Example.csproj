@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PixelDance.Cryptography.Extensions\BitShifter.Cryptography.Extensions.csproj" />
+    <ProjectReference Include="..\BitShifter.Cryptography.Extensions\BitShifter.Cryptography.Extensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1476,13 +1476,13 @@
     },
     "BitShifter.Cryptography/1.0.0": {
       "type": "project",
-      "path": "../PixelDance.Cryptography/BitShifter.Cryptography.csproj",
-      "msbuildProject": "../PixelDance.Cryptography/BitShifter.Cryptography.csproj"
+      "path": "../BitShifter.Cryptography/BitShifter.Cryptography.csproj",
+      "msbuildProject": "../BitShifter.Cryptography/BitShifter.Cryptography.csproj"
     },
     "BitShifter.Cryptography.Extensions/1.0.0": {
       "type": "project",
-      "path": "../PixelDance.Cryptography.Extensions/BitShifter.Cryptography.Extensions.csproj",
-      "msbuildProject": "../PixelDance.Cryptography.Extensions/BitShifter.Cryptography.Extensions.csproj"
+      "path": "../BitShifter.Cryptography.Extensions/BitShifter.Cryptography.Extensions.csproj",
+      "msbuildProject": "../BitShifter.Cryptography.Extensions/BitShifter.Cryptography.Extensions.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1523,8 +1523,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\git\\github\\MarkusGnigler\\MarkusGnigler\\BitShifter.Cryptography\\Src\\PixelDance.Cryptography.Extensions\\BitShifter.Cryptography.Extensions.csproj": {
-              "projectPath": "D:\\git\\github\\MarkusGnigler\\MarkusGnigler\\BitShifter.Cryptography\\Src\\PixelDance.Cryptography.Extensions\\BitShifter.Cryptography.Extensions.csproj"
+            "D:\\git\\github\\MarkusGnigler\\MarkusGnigler\\BitShifter.Cryptography\\Src\\BitShifter.Cryptography.Extensions\\BitShifter.Cryptography.Extensions.csproj": {
+              "projectPath": "D:\\git\\github\\MarkusGnigler\\MarkusGnigler\\BitShifter.Cryptography\\Src\\BitShifter.Cryptography.Extensions\\BitShifter.Cryptography.Extensions.csproj"
             }
           }
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hFUOweuGslgfFsk9vGZxqeTd1/VssfB9GXJ5KNk8pAfUze+2rqJgBx8B5iFjw5+cuO4gA83colEbed8Zr3Rvvw==",
+  "dgSpecHash": "hfWLp+DClHNjEP8AyLJMqjBD1l6TLAaouHZBs5UFO/2lCTOGZvojFwgcuTq75+IgCAGHkQpQrFvYzEvFQya+rw==",
   "success": true,
   "projectFilePath": "D:\\git\\github\\MarkusGnigler\\MarkusGnigler\\BitShifter.Cryptography\\Src\\Cryptography.Example\\Cryptography.Example.csproj",
   "expectedPackageFiles": [

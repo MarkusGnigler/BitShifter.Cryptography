@@ -117,3 +117,4 @@ D:\git\github\MarkusGnigler\MarkusGnigler\BitShifter.Cryptography\Src\Cryptograp
 D:\git\github\MarkusGnigler\MarkusGnigler\BitShifter.Cryptography\Src\Cryptography.Example\obj\Debug\net6.0\refint\Cryptography.Example.dll
 D:\git\github\MarkusGnigler\MarkusGnigler\BitShifter.Cryptography\Src\Cryptography.Example\obj\Debug\net6.0\Cryptography.Example.genruntimeconfig.cache
 D:\git\github\MarkusGnigler\MarkusGnigler\BitShifter.Cryptography\Src\Cryptography.Example\obj\Debug\net6.0\ref\Cryptography.Example.dll
+D:\git\github\MarkusGnigler\MarkusGnigler\BitShifter.Cryptography\Src\Cryptography.Example\obj\Debug\net6.0\Cryptography.Example.MvcApplicationPartsAssemblyInfo.cs

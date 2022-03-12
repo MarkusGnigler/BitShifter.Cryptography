@@ -9,8 +9,13 @@ Secure your on prem asp.core application wether it's console based or web hosted
 1. Add ChiperKey (Your Secret) to an env variable<br>
    Generate a key with `CipherHelper.GenerateNewKey()` and save it to a env variable.
 
+   >CommandPrompt
    ```cmd
    $ set CipherKey=l8cpD27QcWDXjAg8ut+qH0IkWv/p38DrAst4Ee83jMg=
+   ```
+   >PowerShell
+   ```ps1
+   $ $env:CipherKey="l8cpD27QcWDXjAg8ut+qH0IkWv/p38DrAst4Ee83jMg="
    ```
 
 2. Add a encrypted text to appsetting.json<br>
