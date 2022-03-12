@@ -1,0 +1,3 @@
+- https://github.com/rstropek/SecureCodingDotNet
+- https://github.com/rstropek/SecureCodingDotNetSecureCodingDotNet
+- https://github.com/martin-coding/aes-text/blob/main/res/AES.cs
