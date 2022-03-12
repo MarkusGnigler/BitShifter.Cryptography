@@ -4,7 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using PixelDance.Cryptography.Extensions;
+using BitShifter.Cryptography.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,0 +1,10 @@
+**/*.suo
+**/obj/
+**/bin/
+**/*.user
+**/*.vs/
+
+**/.env
+
+**/appsettings.Local.json
+**/temp_Migrations/

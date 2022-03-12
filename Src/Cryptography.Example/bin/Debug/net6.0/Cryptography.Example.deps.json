@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Cryptography.Example/1.0.0": {
         "dependencies": {
-          "PixelDance.Cryptography.Extensions": "1.0.0",
+          "BitShifter.Cryptography.Extensions": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "runtime": {
@@ -276,21 +276,21 @@
           "System.Text.Encodings.Web": "6.0.0"
         }
       },
-      "PixelDance.Cryptography/1.0.0": {
+      "BitShifter.Cryptography/1.0.0": {
         "runtime": {
-          "PixelDance.Cryptography.dll": {}
+          "BitShifter.Cryptography.dll": {}
         }
       },
-      "PixelDance.Cryptography.Extensions/1.0.0": {
+      "BitShifter.Cryptography.Extensions/1.0.0": {
         "dependencies": {
+          "BitShifter.Cryptography": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.Configuration": "6.0.0",
           "Microsoft.Extensions.Hosting": "6.0.0",
-          "Microsoft.Extensions.Hosting.Abstractions": "6.0.0",
-          "PixelDance.Cryptography": "1.0.0"
+          "Microsoft.Extensions.Hosting.Abstractions": "6.0.0"
         },
         "runtime": {
-          "PixelDance.Cryptography.Extensions.dll": {}
+          "BitShifter.Cryptography.Extensions.dll": {}
         }
       }
     }
@@ -567,12 +567,12 @@
       "path": "system.text.json/6.0.0",
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
     },
-    "PixelDance.Cryptography/1.0.0": {
+    "BitShifter.Cryptography/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "PixelDance.Cryptography.Extensions/1.0.0": {
+    "BitShifter.Cryptography.Extensions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
